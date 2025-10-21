@@ -90,7 +90,7 @@ The project has been built using 2 models of prediction namely the Decision Tree
 - https://www.iea.org/news/global-natural-gas-demand-growth-set-to-accelerate-in-2026-as-more-lng-supply-comes-to-market
    
 ## UI Output Screenshots
-![Image]()
+![Image](https://github.com/saidavali123/natural-gas-price1/blob/master/Natural-Gas-Price-Prediction-System-main/Images/Screenshot%202025-10-21%20152707.png)
 
 ## Demonstration Video
 
