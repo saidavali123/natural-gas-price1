@@ -20,7 +20,7 @@ Using the data set of prices provided from the 7th of January 1997 until 29th No
 
 ## Theoretical Analysis
 ### Block Diagram
-![Image](https://github.com/saidavali123/Natural-gas-price-prediction/blob/master/Natural-gas-price-prediction-master/Natural-Gas-Price-Prediction-System-main/Images/Technical%20Architecture.png)
+![Image](https://github.com/saidavali123/natural-gas-price1/blob/master/Natural-Gas-Price-Prediction-System-main/Images/Technical%20Architecture.png)
 ### Software Designing
 We used the following software tools and Python libraries:
 Flask (for web app)
@@ -60,9 +60,6 @@ The dataset was preprocessed and trained using Decision Tree and Random Forest r
 Decision Tree Regressor Accuracy: 97.4%
 Random Forest Regressor Accuracy: 97.74% ✅
 The Random Forest model was deployed in the web app because it achieved the best accuracy and stability.
-
-## Flow Chart
-![Image](https://github.com/saidavali123/Natural-gas-price-prediction/blob/master/Natural-gas-price-prediction-master/Natural-Gas-Price-Prediction-System-main/Images/Flow%20chart.png)
 
 ## Advantages and Disadvantages
 | Prediction Model  | Advantages | Disadvantages |
